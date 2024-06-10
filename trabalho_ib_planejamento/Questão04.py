@@ -1,3 +1,3 @@
 frase="ainda gosto dela"
-tamanho= frase[::16]
+tamanho= frase[-1]
 print(tamanho)
