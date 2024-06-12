@@ -1,3 +1,3 @@
-frase=input("digite ua frase")
+frase=input("digite ua frase:")
 tamanho= frase[-1]
 print(tamanho)
