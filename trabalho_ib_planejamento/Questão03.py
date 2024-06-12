@@ -1,3 +1,3 @@
-frase="gosto de paralamas do sucesso"
+frase=input("digite uma frase")
 tamanho= len(frase)
 print(tamanho)
